@@ -1,0 +1,4 @@
+<ul>
+	<li class='m-menu__item'><a class="m-menu__link m-menu__toggle" href="<?php echo site_url(SITE_AREA . '/developer/database'); ?>"><i class='m-menu__link-bullet m-menu__link-bullet--dot'><span></span></i><span class='m-menu__link-text'><?php echo lang('bf_menu_db_maintenance'); ?></span></a></li>
+	<li class='m-menu__item'><a class="m-menu__link m-menu__toggle" href="<?php echo site_url(SITE_AREA . '/developer/database/backups'); ?>"><i class='m-menu__link-bullet m-menu__link-bullet--dot'><span></span></i><span class='m-menu__link-text'><?php echo lang('bf_menu_db_backup'); ?></span></a></li>
+</ul>
